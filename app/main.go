@@ -21,5 +21,6 @@ func main() {
 	if err != nil {
 		// Handle the error here
 		log.Fatal(err)
+		test
 	}
 }
